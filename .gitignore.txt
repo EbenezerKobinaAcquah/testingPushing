@@ -1,0 +1,4 @@
+
+apikeys.txt
+passwords.txt
+secrets.txt
